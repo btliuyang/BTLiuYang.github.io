@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![liuyang](https://img.shields.io/badge/liuyang-github-blue?logo=github)](https://github.com/btliuyang)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+性格开朗，严谨求实，乐于奉献，具备扎实的理科基础，关注学科前沿发展，具备较强的创新意识与跨学科思维能力
+热爱生物医学工程专业，本科在校期间加入大学生电子爱好者协会，具有良好的工程实践能力与团队协作精神
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: aichimili@163.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 教育背景
+南方医科大学 生物医学工程学院 生物医学成像与图像处理方向，2026-至今 硕士
+安徽医科大学 生物医学工程学院 智能医学工程, 2022-2026 本科
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+Deep learning，Machine Learning for MRI

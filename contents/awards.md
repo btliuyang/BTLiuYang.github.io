@@ -1,12 +1,15 @@
+研究生阶段
 
-- Outstanding Graduate Award (CUMT), 2025.
+* 暂无
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+本科阶段
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+* 第二十届全国大学生智能汽车竞赛 极速光电组 全国二等奖，安徽赛区一等奖
+* 第十九届全国大学生智能汽车竞赛 镜头组 安徽赛区二等奖
+* 第十九届全国大学生智能汽车竞赛 室外远程驾驶无人车赛 安徽赛区三等奖
+* 第七届CRH杂交水稻杯机器人创客大赛二等奖
+* 安徽医科大学第四届程序设计竞赛三等奖
+* 在校期间获新生启航奖学金，徐叔云奖学金，张锡祺奖学金，获评优秀共青团员
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
